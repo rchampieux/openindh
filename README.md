@@ -2,7 +2,7 @@
 
 When it comes to promoting the importance of open scholarship, Latin America and the Caribbean stand out in the sense that the concept of “openness” is generally accepted in the the region. Several nations, such as Peru, Argentina, Brazil and Mexico, have shown real advances in terms of national laws that seek to make knowledge produced with public funds a common good managed by the academic community. Regional projects such as Scielo and redalyc.org have played a unique role to make the scholarship published in Ibero American and Latin American journals available free of charge. 
 
-###Open access is now established in Latin America and the Caribbean as the most impactful academic communication model, giving visibility and value to scientific production at a regional and global level. 
+### Open access is now established in Latin America and the Caribbean as the most impactful academic communication model, giving visibility and value to scientific production at a regional and global level. 
 
 Nevertheless, the question remains:  **to what extent has this environment influenced the work of digital humanists in Latin America, the Caribbean, and beyond?** Much of the most well-known digital humanities (DH) work tends to focus myopically on projects coming out of North America and Western Europe. And despite efforts by groups such as [Global Outlook::Digital Humanities (GO::DH)](http://www.globaloutlookdh.org/) and the [Alliance of Digital Humanities Organisations](https://adho.org/), DH remains a very English-language-centric interdiscipline. 
 
