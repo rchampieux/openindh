@@ -1,4 +1,4 @@
-# Open in DH
+# OWhat would it take to bring DH into a more global openness model?
 
 When it comes to promoting the importance of open scholarship, Latin America and the Caribbean stand out in the sense that the concept of “openness” is generally accepted in the the region. Several nations, such as Peru, Argentina, Brazil and Mexico, have shown real advances in terms of national laws that seek to make knowledge produced with public funds a common good managed by the academic community. Regional projects such as Scielo and redalyc.org have played a unique role to make the scholarship published in Ibero American and Latin American journals available free of charge. Open access is now established in Latin America and the Caribbean as the most extended communication model in the academic community, giving visibility and value to scientific production at a regional and global level. 
 
