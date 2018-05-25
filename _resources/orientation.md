@@ -11,7 +11,7 @@ We are currently peparing a final schedule for the workshop and a list of suppor
 
 #### :star: Pull Requests
 
-Are you pretty confortable working in Github or just want to learn?  That's awesome, direct contributions to Open in DH are welcome!  Here are a few tips for faciliating the Pull Request (PR) process:
+Are you pretty confortable working in Github or just want to learn?  That's great, direct contributions to Open in DH are welcome!  Here are a few tips for faciliating the Pull Request (PR) process:
 
 * Make your changes compact, which will allow us to review and merge your contribuitons more quickly.
 * Use a descriptive title.
