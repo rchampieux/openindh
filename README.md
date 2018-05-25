@@ -12,3 +12,7 @@ Nevertheless, the question remains:  **to what extent has this environment influ
 
 Please join us for **Where is the Open in DH? on Tuesday 26, from 9:00 a.m. to 5:30 p.m.**, at the Empire Room A, Sheraton María Isabel Hotel, as part of the [Digital Humanities Conference](https://dh2018.adho.org/) in Mexico City, from June 26-29.
 
+We are currently peparing a final schedule for the workshop and a list of supporing resources.  We welcome reading and case study examples from attendees and anyone interested in the topics we'll be exploring.  Please review our [orrientation page](https://github.com/rchampieux/openindh/blob/master/_resources/orientation.md) to submit your ideas.
+
+
+
