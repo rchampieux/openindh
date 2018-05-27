@@ -15,11 +15,11 @@ Please join us for **Where is the Open in DH? on Tuesday 26, from 9:00 a.m. to 5
 We are currently peparing a final schedule for the workshop and a list of supporing resources.  We welcome reading and case study examples from attendees and anyone interested in the topics we'll be exploring.  Please review our repository's [orientation page](https://github.com/rchampieux/openindh/blob/master/_resources/orientation.md) to submit your ideas.
 
 
-#¿Qué se necesita?
+# ¿Qué se necesita?
 
 Cuando se trata de promover la importancia del acceso abierto al conocimiento, América Latina y el Caribe se destacan en el sentido de que el concepto de "apertura" es generalmente aceptado en toda la región. Varios países, como Perú, Argentina, Brasil y México, han mostrado avances significativos en términos de leyes nacionales que buscan hacer que el conocimiento producido con fondos públicos sea un bien común administrado por la comunidad académica. También podemos destacar proyectos regionales tales como [Scielo](http://www.scielo.org/php/index.php) and [redalyc.org](http://www.redalyc.org/) que han desempeñado un papel único para que la producción publicada en revistas iberoamericanas y latinoamericanas esté disponible de forma gratuita y abierta.
 
-###El acceso abierto se ha establecido en América Latina y el Caribe como el modelo de comunicación más extendido en la comunidad académica, dando visibilidad y valor a la producción científica a nivel regional y global.
+### El acceso abierto se ha establecido en América Latina y el Caribe como el modelo de comunicación más extendido en la comunidad académica, dando visibilidad y valor a la producción científica a nivel regional y global.
 
 Sin embargo, la pregunta sigue siendo **hasta qué punto esta amplia aceptación de lo abierto influyó en el trabajo de los humanistas digitales en América Latina y el Caribe, además de otros países.** Gran parte del trabajo de las Humanidades Digitales (HD) tiende a centrarse miopemente en proyectos de América del Norte y Europa occidental. Y a pesar de los esfuerzos de grupos como [Global Outlook::Digital Humanities (GO::DH)](http://www.globaloutlookdh.org/), las HD siguen siendo una interdisciplina muy centrada en el idioma inglés.
 
