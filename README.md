@@ -29,5 +29,5 @@ Sin embargo, la pregunta sigue siendo **hasta qué punto esta amplia aceptación
 
 Únete a nosostros en **Where is the Open in DH? on Tuesday 26, from 9:00 a.m. to 5:30 p.m./ Dónde está lo abierto en las HD? el Martes 26, de 9:00 a.am. a 5:50 p.m.**, en la Sala Imperio, Sheraton María Isabel Hotel, como parte de la [Digital Humanities Conference](https://dh2018.adho.org/) en México, Junio 26-29.
 
-Estamos trabajando en unaagenda final para el workshop y una lista de lecturas.  Son bienvenidas lecturas iluminadoras y casos de estudio de parte de los asistentes. Aquí nuestro repositorio [orientation page](https://github.com/rchampieux/openindh/blob/master/_resources/orientation.md) para que nos envíes tus ideas.
+Estamos trabajando en una agenda final para el workshop y una lista de lecturas.  Son bienvenidas lecturas iluminadoras y casos de estudio de parte de los asistentes. Aquí nuestro repositorio [orientation page](https://github.com/rchampieux/openindh/blob/master/_resources/orientation.md) para que nos envíes tus ideas.
 
