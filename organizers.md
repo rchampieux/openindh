@@ -22,7 +22,7 @@ Dan O'Donnell is a professor in the Department of English at the University of L
 
 **Robin Champieux**
 
-Robin Champieux is the Research Engagement and Open Science Librarian at Oregon Health and Science University.  Scholarly Communication Librarian at OHSU, where she leads the Library’s research communication and open science programs.  She is the co-founder of the the [Metrics Toolkit](http://www.metrics-toolkit.org/) and [Awesome Foundation Libraries Chapter](https://www.awesomefoundation.org/en/chapters/libraries). Her work and research is focused on enabling the creation, reproducibility, accessibility, and impact of digital scientific materials.
+Robin Champieux is the Research Engagement and Open Science Librarian at Oregon Health and Science University, where she leads the Library’s research communication and open science programs.  She is the co-founder of the the [Metrics Toolkit](http://www.metrics-toolkit.org/) and [Awesome Foundation Libraries Chapter](https://www.awesomefoundation.org/en/chapters/libraries). Her work and research is focused on enabling the creation, reproducibility, accessibility, and impact of digital scientific materials.
 
 [back](./)
 
