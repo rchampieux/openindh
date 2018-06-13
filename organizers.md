@@ -14,7 +14,7 @@ Gimena del Rio Riande is a researcher at the Seminario de Edición y Crítica Te
 
 **April M. Hathcock**
 
-April Hathcock is the Librarian for Scholarly Communication at New York University. A former lawyer, she educates the global campus community on issues of rights, access, and ownership of scholarly material. She is a member of the NYU Digital Scholarship Services, providing education and support to digital scholars in a wide-range is disciplines. She serves as an advisory board member of the newly formed Scholarly Hub, a nonprofit open platform for multidisciplinary scholarship. She is also a member of the Force11 Scholarly Commons Working Group and of the Editorial Board of Revista de Humanidades Digitales.
+April Hathcock is the Librarian for Scholarly Communication at New York University. A former lawyer, she educates the global campus community on issues of rights, access, and ownership of scholarly material. She is a member of the NYU Digital Scholarship Services, providing education and support to digital scholars in a wide-range is disciplines. She serves as an advisory board member of the newly formed [Scholarly Hub](https://www.scholarlyhub.org/), a nonprofit open platform for multidisciplinary scholarship. She is also a member of the Force11 Scholarly Commons Working Group and of the Editorial Board of Revista de Humanidades Digitales.
 
 **Daniel O’Donnell** 
 
