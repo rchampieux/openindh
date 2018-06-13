@@ -10,7 +10,7 @@ Nevertheless, the question remains:  **to what extent has this environment influ
 
 [This workshop](https://dh2018.adho.org/en/talleres/) will analyse these challenges by highlighting existing initiatives and exploring possibilities to advance open in DH in Latin America and the Caribbean. We will examine national laws and specific case studies that illustrate the approaches, progress, and challenges of open access as a movement in Latin America and the Caribbean, as well as the global context and focus on the ways these various infrastructures for open can be deployed to build a more globally open DH. 
 
-Please join us for **Where is the Open in DH? on Tuesday 26, from 9:00 a.m. to 5:30 p.m.**, at the Empire Room A, Sheraton María Isabel Hotel, as part of the [Digital Humanities Conference](https://dh2018.adho.org/) in Mexico City, from June 26-29.
+Please join us for **Where is the Open in DH? on Tuesday 26, from 9:00 a.m. to 12:30 p.m.**, at the Empire Room A, Sheraton María Isabel Hotel, as part of the [Digital Humanities Conference](https://dh2018.adho.org/) in Mexico City, from June 26-29.
 
 We are currently peparing a final schedule for the workshop and a list of supporing resources.  We welcome reading and case study examples from attendees and anyone interested in the topics we'll be exploring.  Please review our repository's [orientation page](https://github.com/rchampieux/openindh/blob/master/_resources/orientation.md) to submit your ideas.
 
@@ -27,7 +27,7 @@ Sin embargo, la pregunta sigue siendo **hasta qué punto esta amplia aceptación
 
 [El taller](https://dh2018.adho.org/en/talleres/) analizará estos desafíos, resaltará las iniciativas y explorará opciones para avanzar en unas HD abiertas en América Latina y el Caribe. Examinaremos las leyes nacionales mencionadas y los casos específicos que ilustran el progreso y los desafíos del acceso abierto como un movimiento en América Latina y el Caribe, así como en el contexto global, y analizaremos las formas en que se pueden implementar estas diversas infraestructuras para abrir para construir unas HD más globalmente abiertas.
 
-Únete a nosostros en **Where is the Open in DH? on Tuesday 26, from 9:00 a.m. to 5:30 p.m./ Dónde está lo abierto en las HD? el Martes 26, de 9:00 a.am. a 5:50 p.m.**, en la Sala Imperio, Sheraton María Isabel Hotel, como parte de la [Digital Humanities Conference](https://dh2018.adho.org/) en México, Junio 26-29.
+Únete a nosostros en **Where is the Open in DH? on Tuesday 26, from 9:00 a.m. to 12:30 p.m./ Dónde está lo abierto en las HD? el Martes 26, de 9:00 a.am. a 12:30 p.m.**, en la Sala Imperio, Sheraton María Isabel Hotel, como parte de la [Digital Humanities Conference](https://dh2018.adho.org/) en México, Junio 26-29.
 
 Estamos trabajando en una agenda final para el workshop y una lista de lecturas.  Son bienvenidas lecturas iluminadoras y casos de estudio de parte de los asistentes. Aquí nuestro repositorio [orientation page](https://github.com/rchampieux/openindh/blob/master/_resources/orientation.md) para que nos envíes tus ideas.
 
