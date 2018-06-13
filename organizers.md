@@ -4,8 +4,6 @@ layout: default
 
 ## Open in DH Organizers 
 
-[back](./)
-
 **Wouter Schallier**
 
 Wouter Schallier is Chief of the Hernán Santa Cruz Library of the United Nations Economic Commission for Latin America and the Caribbean, United Nations, in Santiago de Chile. Between 2015 and 2017, he lead the Latin American and Caribbean work packages of the [LEARN project](www.learn-rdm.eu) on Research Data Management, financed by the European Commission. The primary objectives of this project were: to disseminate the LERN (League of European Research Libraries) Roadmap on Research Data Management, and to develop a policy model and toolbox to support the implementation of research data management in institutions in Europe, Latin America and the Caribbean. In 2016, the first regional meeting on research data management was held in ECLAC. The ECLAC Library also published a guide on best practices for the implementation of research data management policies.  Wouter Schallier publishes and presents talks on access to information, innovation, and digital scientific infrastructures.
